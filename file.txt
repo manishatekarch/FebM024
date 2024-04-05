@@ -1,0 +1,2 @@
+A Git repository is a location where your project resides, acting as a storage area. 
+Git
